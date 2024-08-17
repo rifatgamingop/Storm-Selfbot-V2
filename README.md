@@ -23,6 +23,8 @@ Download Termux on your phone and open it and use this commands on termux
 
 ``cd Storm-Selfbot-V2``
 
+``pip install -r requirements.txt``
+
 ``python main.py``
 
 # Install on Linux
@@ -39,6 +41,8 @@ Download Termux on your phone and open it and use this commands on termux
 ``git clone https://github.com/rifatgamingop/Storm-Selfbot-V2``
 
 ``cd Storm-Selfbot-V2``
+
+``pip install -r requirements.txt``
 
 ``python main.py``
 
