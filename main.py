@@ -485,4 +485,4 @@ async def loud(ctx):
     else:
         await ctx.send('Not connected to a voice channel.')
 
-client.run(token)
+client.run(token, bot=False)
