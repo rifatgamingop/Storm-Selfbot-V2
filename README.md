@@ -13,6 +13,8 @@ Download Termux on your phone and open it and use this commands on termux
 
 ``apt upgrade``
 
+``pkg install ffmpeg``
+
 ``pkg install git``
 
 ``pkg install python``
@@ -27,6 +29,8 @@ Download Termux on your phone and open it and use this commands on termux
 ``sudo apt update``
 
 ``sudo apt upgrade``
+
+``sudo apt install ffmpeg``
 
 ``sudo apt install git``
 
