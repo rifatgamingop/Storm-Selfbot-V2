@@ -43,5 +43,5 @@ Download Termux on your phone and open it and use this commands on termux
 ``python main.py``
 
 # Install on Mac
-Its easy to install on pc just download by click on code then click on download as zip then extract it and open visual studio code or any code editor and run.
+Its easy to install on Mac just download by click on code then click on download as zip then extract it and open visual studio code or any code editor and run.
 Note: Must have python installed in Mac
